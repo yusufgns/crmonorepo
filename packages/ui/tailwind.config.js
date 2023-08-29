@@ -1,0 +1,1 @@
+module.exports = require('@crmonorepo/tailwind-config')
