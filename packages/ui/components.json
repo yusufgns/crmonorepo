@@ -10,6 +10,6 @@
     },
     "aliases": {
       "components": "@/components",
-      "utils": "@wordigo/ui/lib/utils"
+      "utils": "@crmonorepo/ui/lib/utils"
     }
   }
