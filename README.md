@@ -33,3 +33,9 @@ yarn install <package>
 ```sh
 yarn install tailwindcss
 ```
+
+# Add Shadcn UI Component
+../crmonorepo/packages/ui
+```sh
+npx shadcn-ui@latest add <component>
+```
