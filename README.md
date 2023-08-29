@@ -9,10 +9,6 @@ yarn install
 ```
 
 ```sh
-npx create-turbo@latest
-```
-
-```sh
 yarn dev:web
 ```
 
