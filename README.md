@@ -1,3 +1,6 @@
+# CRMonorepo
+Built to quickly start turborepo projects.
+
 # Starter
 
 ```sh
