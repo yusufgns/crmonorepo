@@ -1,5 +1,5 @@
 # CRMonorepo
-Built to quickly start turborepo projects.
+Fast usable build for turborepo and shadcn ui users
 
 # Products
 - Shadcn UI
