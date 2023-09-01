@@ -1,6 +1,12 @@
 # CRMonorepo
 Built to quickly start turborepo projects.
 
+# Products
+- Shadcn UI || Loading ...
+- TailwindCSS
+- Turborepo
+- Supabase || Loading ...
+
 # Starter
 
 ```sh
