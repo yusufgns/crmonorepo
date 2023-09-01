@@ -2,10 +2,9 @@
 Built to quickly start turborepo projects.
 
 # Products
-- Shadcn UI || Loading ...
+- Shadcn UI
 - TailwindCSS
 - Turborepo
-- Supabase || Loading ...
 
 # Starter
 
